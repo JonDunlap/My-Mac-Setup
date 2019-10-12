@@ -1,10 +1,18 @@
 # My Mac Setup
 
-[Updates](#updates)
+[Updates](#Updates)
 
-[Security Settings](#security-settings)
+[Security Settings](#Security-Settings)
 
-[System Preferences](#system-preferences)
+[System Preferences](#System-Preferences)
+
+[Terminal](#Terminal-Tools)
+
+[Applications](#Applications)
+
+[Full Sail Programs](#Full-Sail-Programs)
+
+[Entertainment](#Entertainment)
 
 ## Updates
 
@@ -43,6 +51,8 @@ iTerm2
 
 - Fonts/themes/agnoster/
 
+## Applications
+
 Visual studio community
 
 Visual studio code
@@ -77,16 +87,6 @@ Transmission
 
 VLC
 
-## Full Sail Programs
-
-VMWare
-
-Windows 10
-
-Office (license)
-
-Adobe Creative Cloud
-
 ## App Store
 
 [1Password 7](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) App store download / [1Password Website](https://1password.com) download from website
@@ -104,6 +104,16 @@ Adobe Creative Cloud
 [Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12)
 
 [Grammarly](https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12)
+
+## Full Sail Programs
+
+VMWare
+
+Windows 10
+
+Office (license)
+
+Adobe Creative Cloud
 
 ## Entertainment
 
