@@ -89,26 +89,22 @@ Adobe Creative Cloud
 
 ## App Store
 
-[1Password 7](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12)
+[1Password 7](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) App store download / [1Password Website](https://1password.com) download from website
 
-- link for discount
+- 6 month free trial available with student email through [Student App Centre](https://www.studentappcentre.com/discounts/1password)
 
-[NordVPN](https://apps.apple.com/us/app/nordvpn-ike-unlimited-vpn/id1116599239?mt=12)
+[NordVPN](https://apps.apple.com/us/app/nordvpn-ike-unlimited-vpn/id1116599239?mt=12) App store download / [NordVPN Website](https://nordvpn.com) download from website
 
-- Check student beans for discount
+- 15% discount available from [StudentBeans.com](https://www.studentbeans.com/student-discount/us/nordvpn/code-15-student-discount-0ff030fc-52ea-4ce9-aa43-32800bc9dbd8?source=quick_search)
 
-Microsoft Office 365
+[Microsoft Office 365](https://apps.apple.com/us/app-bundle/microsoft-office-365/id1450038993?mt=12) App store download / [Full Sail install instructions](https://one.fullsail.edu/support/knowledge_base_articles/technical/505)
 
-SnippetsLab
+[SnippetsLab](https://apps.apple.com/us/app/snippetslab/id1006087419?mt=12)
 
-Slack
+[Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12)
 
-Grammarly
+[Grammarly](https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12)
 
 ## Entertainment
 
 - Steam
-
-- Blizzard Launcher
-  - Twitch Launcher
-  - Zygor Guides
