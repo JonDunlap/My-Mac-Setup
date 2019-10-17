@@ -73,6 +73,10 @@ Safari is my default web browser on the Mac, it has gotten much better and I hav
 
 ## Applications
 
+```
+List of applications that I download for my Mac
+```
+
 xCode
 
 - This is needed for any coding done on the Mac, it installs the necessary components that are needed to begin coding on your Mac.
@@ -171,24 +175,49 @@ AVG AntiVirus
 
 ## App Store
 
+```
+Selection of applications available through the App Store that I use. Makes updates easier and more automated since they are updated through the App Store.
+```
+
 1Password 7
 
--
-- [1Password 7](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) App store download / [1Password Website](https://1password.com) download from website
+- Excellent password manager that was made for Apple products. Integrates with your Mac and iOS devices giving a stronger alternative to Keychain. Generate and save passwords along with 2FA support built into the application.
+
+  - [App store download](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) / [1Password Website](https://1password.com) download from website
 
   - 6 month free trial available with student email through [Student App Centre](https://www.studentappcentre.com/discounts/1password)
 
-[NordVPN](https://apps.apple.com/us/app/nordvpn-ike-unlimited-vpn/id1116599239?mt=12) App store download / [NordVPN Website](https://nordvpn.com) download from website
+NordVPN
 
-- 15% discount available from [StudentBeans.com](https://www.studentbeans.com/student-discount/us/nordvpn/code-15-student-discount-0ff030fc-52ea-4ce9-aa43-32800bc9dbd8?source=quick_search)
+- Fast VPN service with worldwide servers. Free 30 day trial available to check if it is right for you. Works on your multiple platforms including your computer, phone, tablets, and can be added straight into your router or other network devices.
 
-[Microsoft Office 365](https://apps.apple.com/us/app-bundle/microsoft-office-365/id1450038993?mt=12) App store download / [Full Sail install instructions](https://one.fullsail.edu/support/knowledge_base_articles/technical/505)
+  - [NordVPN](https://apps.apple.com/us/app/nordvpn-ike-unlimited-vpn/id1116599239?mt=12) App store download / [NordVPN Website](https://nordvpn.com) download from website
 
-[SnippetsLab](https://apps.apple.com/us/app/snippetslab/id1006087419?mt=12)
+  - 15% discount available from [StudentBeans.com](https://www.studentbeans.com/student-discount/us/nordvpn/code-15-student-discount-0ff030fc-52ea-4ce9-aa43-32800bc9dbd8?source=quick_search)
 
-[Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12)
+Microsoft Office
 
-[Grammarly](https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12)
+- Free student accounts with student email, personally I have prefered Apple's suite of programs to Microsoft's but they both do essentially the same thing.
+
+  - [Microsoft Office 365](https://apps.apple.com/us/app-bundle/microsoft-office-365/id1450038993?mt=12) App store download / [Full Sail install instructions](https://one.fullsail.edu/support/knowledge_base_articles/technical/505)
+
+Snippets Lab
+
+- Snippet manager built for the Mac, featuring search integration, iCloud backup, and the ability to label and color categories.
+
+  - [SnippetsLab](https://apps.apple.com/us/app/snippetslab/id1006087419?mt=12) App Store download
+
+Grammarly for Safari
+
+- Grammar and spell checker that integrates with Safari.
+
+  - [Grammarly](https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12) App Store download
+
+Slack
+
+- Team messaging application, built for larger organizations allowing teams to stay in touch and provide updates. Used for programming courses.
+
+  - [Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12) App Store download
 
 ## Full Sail Programs / Github education
 
