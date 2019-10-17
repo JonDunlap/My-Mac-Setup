@@ -8,6 +8,8 @@
 
 [Terminal](#Terminal-Tools)
 
+[Safari](#Safari)
+
 [Applications](#Applications)
 
 [Full Sail Programs](#Full-Sail-Programs)
@@ -63,54 +65,118 @@ Alternativly you can install [iTerm](https://www.iterm2.com) as your default ter
 - If you have already followed the install instructions for Oh My Zsh the only thing you should have to do is change the font and theme in iTerm to match those in terminal
 - If not follow the same install instructions from the previous steps
 
-iTerm2
+## Safari
 
-- Fonts/themes/agnoster/
+Safari is my default web browser on the Mac, it has gotten much better and I have not ran into any issues with websites running or opening strangely. A newer feature is the developer tools that are available, but not enabled by default.
+
+- To enable open Safari, in the menu bar click **Safari > Preferences > Advanced** and select **Show Develop menu in menu bar**. This will enable a new menu bar item that gives you many tools to troubleshoot and inspect webpages.
 
 ## Applications
 
 xCode
 
-- Install from [AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or/
-- Using the terminal type `xcode-select --install`
-
-Visual studio community
-
-Visual studio code
+- This is needed for any coding done on the Mac, it installs the necessary components that are needed to begin coding on your Mac.
+  - Install from [AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or/
+  - Using the terminal type `xcode-select --install`
 
 Git
 
+- Tool for version control
+  - Install from the [Git website](https://git-scm.com)
+
 GitHub Desktop
+
+- Works the same as Git, but gives you a UI so you can see what you are doing.
+  - Install from [Github](https://desktop.github.com)
+
+Visual studio Community for Mac
+
+- Replaces Xamarin on Mac, allows you to create .NET applications that can run on iOS, Android, and the web.
+  - Download and install from [Microsoft's Website](https://visualstudio.microsoft.com/vs/mac/)
+
+Visual studio code
+
+- VS Code is a multi-purpose editor allowing you to work with various code languages. It is fully customizable and can be enhance with many different packages extending it's usability.
+  - Download and install from [Microsoft's Website](https://code.visualstudio.com)
+  - Gist with user settings located [here](https://gist.github.com/JonDunlap/4bbbd69462aed57daeda4ecc157173f9)
+  - Follow instructions [here](https://code.visualstudio.com/docs/setup/mac) to make VS Code accesible from the terminal
 
 MacUpdater
 
+- Handy tool to keep almost all of your non Appstore programs up to date on your Mac
+  - Download from [here](https://www.corecode.io/macupdater/)
+  - You can scan without having to pay for the product and up to 10 automatic updates are included for free. If you use the program to just scan for updates and then just install them yourself you do not need to pay for the license. That being said, this is a great product and is worth the low \$10 price to have all the features and to support the creators.
+
 Alfred
+
+- A more powerful spotlight tool. Alfred is a very powerful tool for searching your Mac, opening programs and much more.
+  - Install from [here](https://www.alfredapp.com)
+  - There is a paid powerpack that extends the functionality of Alfred, I personally have not seen the need to upgrade to it, but depending on if you can put the additional tools to use it may be worth looking at.
 
 AppCLeaner
 
-AVG AntiVirus
+- Cleans some of the leftover files from your Mac after uninstalling an application. Macs are infamous for the amount of junk that is left behind after uninstalling an application and with no easy way to find what is left after an uninstall it can be hard to keep your Mac free of clutter. This application automates that process and gives you an option to remove the additional files from your Mac when you delete an application.
+  - Install from [freemacsoft](https://freemacsoft.net/appcleaner/)
+
+Tiles/Magnet
+
+- Window management is notoriously horrible in Mac, you can create multiple desktop environments which is great, but you're forced to manually resize and arrange your windows unless you want everything in full screen mode. There are 2 windows management applications that I have tried and they are both good with their own advantages and disadvantages.
+
+* Tiles
+  - Another free program from [freemacsoft](https://freemacsoft.net/tiles/)
+  - The only disadvantage I had with this application is that there is no 2/3 window size option
+* Magnet
+  - A paid application on the [App Store](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
+  - All of the same benefits as Tiles, but has the support for 2/3 window sizes.
 
 CheatSheet
 
+- Great tool for helping you to learn all the shortcuts that are available in your program to help speed up your workflow.
+  - Free application from [mediaatelier website](https://www.cheatsheetapp.com/CheatSheet/)
+
 Google Chrome
+
+- I keep Google Chrome on my Mac as an alternate browser to check websites when needed.
+  - Download from [Google](https://www.google.com/chrome/)
 
 HP Utilities
 
-JetBrains Toolbox
+- Drivers and programs for my HP printer/scanner
+  - [HP Support](https://support.hp.com/us-en/drivers/selfservice/hp-deskjet-2130-all-in-one-printer-series/7174550)
 
 Logitech Options
 
+- Drivers and settings for my MX Master 2s mouse
+  - [Logitech](https://www.logitech.com/en-gb/product/options)
+
 Razer Synapse 2
+
+- Drivers and settings for my Razer Moba mouse. There is a synapse 3 available however it is not currently available on the Mac.
+  - [Razer](https://www.razer.com/synapse-2)
 
 Transmission
 
+- Fast, easy, and free bittorrent client native to the Mac.
+  - [Transmission](https://transmissionbt.com)
+
 VLC
+
+- Free open-source multimedia player available on multiple platforms.
+  - [VideoLAN](https://www.videolan.org/index.html)
+
+AVG AntiVirus
+
+- No computer is immune to viruses, AVG is available for free with purchased plans.
+  - [AVG](https://www.avg.com/en-ww/homepage#mac)
 
 ## App Store
 
-[1Password 7](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) App store download / [1Password Website](https://1password.com) download from website
+1Password 7
 
-- 6 month free trial available with student email through [Student App Centre](https://www.studentappcentre.com/discounts/1password)
+-
+- [1Password 7](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) App store download / [1Password Website](https://1password.com) download from website
+
+  - 6 month free trial available with student email through [Student App Centre](https://www.studentappcentre.com/discounts/1password)
 
 [NordVPN](https://apps.apple.com/us/app/nordvpn-ike-unlimited-vpn/id1116599239?mt=12) App store download / [NordVPN Website](https://nordvpn.com) download from website
 
@@ -124,7 +190,7 @@ VLC
 
 [Grammarly](https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12)
 
-## Full Sail Programs
+## Full Sail Programs / Github education
 
 VMWare
 
@@ -136,6 +202,9 @@ Office (license)
 
 Adobe Creative Cloud
 
+JetBrains Toolbox
+
 ## Entertainment
 
 - Steam
+- Twitch launcher
