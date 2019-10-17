@@ -73,9 +73,7 @@ Safari is my default web browser on the Mac, it has gotten much better and I hav
 
 ## Applications
 
-```
 List of applications that I download for my Mac
-```
 
 xCode
 
@@ -175,9 +173,7 @@ AVG AntiVirus
 
 ## App Store
 
-```
 Selection of applications available through the App Store that I use. Makes updates easier and more automated since they are updated through the App Store.
-```
 
 1Password 7
 
