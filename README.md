@@ -43,28 +43,36 @@ Check preferences for settings that you want, some of the recommended ones I use
   - **> Trackpad > More Gestures:** Select all options for easy navigation
   - **> Mouse:** Tracking Speed to fast
 
-## Install HomeBrew / CakeBrew / and BrewCask
-
-xCode
-
-- Install from [AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or/
-- Using the terminal type `xcode-select --install`
-
-Homebrew
-
-- brewcask
-- cakebrew
--
-
 ## Terminal tools
 
-Oh my ZSH
+Customize the terminal to add some flair.
+
+- Install Oh my ZSH
+  - Install Oh My Zsh following the instructions [here](https://github.com/robbyrussell/oh-my-zsh)
+- Customize the theme
+  - Inside your terminal open the `.zshrc` file that edits your Oh My Zsh environment
+    - Edit the `.zshrc` file to use the Agnoster theme `ZSH_THEME="agnoster"`
+    - While in the `.zshrc` file add the line `DEFAULT_USER=YOURUSERNAME` where `YOURUSERNAME` is the username that shows up in your terminal if you would like to shorten your name path in terminal
+  - Need to install the Powerline fonts from [here](https://github.com/powerline/fonts) for the theme to look proper
+    - Once installed go to **Terminal > Preferences > Profiles > Text** and change the Font to one of the powerline compatible fonts, I prefer the Source Code Pro font
+  - Change your theme to the solarized dark theme colors
+    - In terminal you can add a profile to change the theme to match that of the solarized dark theme. I have included one in the files of this repo for your use, or you can go to the [Solarized website](https://ethanschoonover.com/solarized/) to copy the color palette for either the dark or light theme that you prefer.
+
+Alternativly you can install [iTerm](https://www.iterm2.com) as your default terminal
+
+- If you have already followed the install instructions for Oh My Zsh the only thing you should have to do is change the font and theme in iTerm to match those in terminal
+- If not follow the same install instructions from the previous steps
 
 iTerm2
 
 - Fonts/themes/agnoster/
 
 ## Applications
+
+xCode
+
+- Install from [AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or/
+- Using the terminal type `xcode-select --install`
 
 Visual studio community
 
