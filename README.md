@@ -14,7 +14,7 @@
 
 [Full Sail Programs](#Full-Sail-Programs)
 
-[Entertainment](#Entertainment)
+[GitHub Student Developer Pack](#github-student-developer-pack)
 
 ## Updates
 
@@ -221,21 +221,28 @@ Selection of applications available through the App Store that I use. Makes upda
 
   - [Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12) App Store download
 
-## Full Sail Programs / Github education
+## Full Sail Programs
 
-**VMWare**
+Additional software needed for or provided by my school for the purposes of my degree.
 
-- Ubuntu
+**OnTheHub**
 
-**Windows 10**
-
-Office (license)
+- Software hub that distributes programs and their licenses to registered students.
+- Needed/available programs
+  - **VMWare**
+    - Used for programs that can't or won't run on Mac allowing an alternative OS without having to use Bootcamp.
+  - **Windows 10 Education**
+    - Full version of Windows 10 provided to run with VMWare.
+  - **Microsoft Office**
+    - Full suite of tools for creating documents.
 
 **Adobe Creative Cloud**
 
-**JetBrains Toolbox**
+- All Adobe products provided for the Web Design/Development degree.
 
-## Entertainment
+## Github Student Developer Pack
 
-- **Steam**
-- **Twitch launcher**
+An amazing pack of software, tools, websites, learning material and more that is constantly updated to provide amazing value to students. Items are either offered free or at severly discounted prices to students.
+
+- Go to [GitHub Education](https://education.github.com/pack) to register with your student email. You can use an already created GitHub account you just have to link it with your University.
+- Once registered you have access to a wealth of resources to help you develop as a developer.
