@@ -32,7 +32,15 @@ Check preferences for settings that you want, some of the recommended ones I use
 
 - Go to ** > System Preferences**
 
-  - **> Trackpad:** Tracking Speed to fast
+  - **> General:** Uncheck **Ask to keep changes..**
+  - **> General:** Check **Allow Handoff..** to enable copy/pasting to and from other Apple devices as well as messaging and calls on your Mac
+  - **> Dock:** Change the size and position to what you like
+  - **> Accessibility > Siri:** Enable type to Siri so you can use Siri without talking at your Mac
+  - **> Touch ID:** Setup Touch ID if available on your Mac
+  - **> Users & Groups > Login Options:** Click the lock icon and enter your password to edit. Setup automatic login if you are the only user, click **Show fast user switching menu** to enable your name in the menu bar of your Mac. Looks good and offers a quick way to logoff and change user accounts.
+  - **> Keyboard > Keyboard:** Set **Key Repeat** to fast and **Delay Until Repeat** to short. If you are using an external keyboard make sure **Use F1, F2, etc..** is selected so that you can use your keyboard function keys
+  - **> Trackpad > Point & Click:** Tracking Speed to fast
+  - **> Trackpad > More Gestures:** Select all options for easy navigation
   - **> Mouse:** Tracking Speed to fast
 
 ## Install HomeBrew / CakeBrew / and BrewCask
