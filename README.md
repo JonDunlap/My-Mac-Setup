@@ -21,6 +21,11 @@
 
 ## Security Settings
 
+- Go to: ** > System Preferences > Security & Privacy**
+  - **> General:** Ensure that a login password has been set. Set your preferences for how long until a password is required and set a lock message if desired.
+  - **> FileVault:** Recommended to turn on FileVault
+  - **> Privacy:** Will need to give permissions to programs as you install them, it will be done from here
+
 ## System Preferences
 
 Check preferences for settings that you want, some of the recommended ones I use.
@@ -62,8 +67,6 @@ Git
 GitHub Desktop
 
 MacUpdater
-
-1Password
 
 Alfred
 
@@ -108,6 +111,8 @@ VLC
 ## Full Sail Programs
 
 VMWare
+
+- Ubuntu
 
 Windows 10
 
