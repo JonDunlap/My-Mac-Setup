@@ -60,7 +60,7 @@ Customize the terminal to add some flair.
   - Change your theme to the solarized dark theme colors
     - In terminal you can add a profile to change the theme to match that of the solarized dark theme. [Here](https://gist.github.com/JonDunlap/9ea50b552b0b9d7c84e969866f59baba) is a gist with my solarized terminal profile, or you can go to the [Solarized website](https://ethanschoonover.com/solarized/) to copy the color palette for either the dark or light theme that you prefer.
 
-Alternativly you can install [iTerm](https://www.iterm2.com) as your default terminal
+Alternatively you can install [iTerm](https://www.iterm2.com) as your default terminal
 
 - If you have already followed the install instructions for Oh My Zsh the only thing you should have to do is change the font and theme in iTerm to match those in terminal
 - If not follow the same install instructions from the previous steps
@@ -98,10 +98,10 @@ List of applications that I download for my Mac
 
 **Visual studio code**
 
-- VS Code is a multi-purpose editor allowing you to work with various code languages. It is fully customizable and can be enhance with many different packages extending it's usability.
+- VS Code is a multi-purpose editor allowing you to work with various code languages. It is fully customizable and can be enhance with many different packages extending its usability.
   - Download and install from [Microsoft's Website](https://code.visualstudio.com)
   - Gist with user settings located [here](https://gist.github.com/JonDunlap/4bbbd69462aed57daeda4ecc157173f9)
-  - Follow instructions [here](https://code.visualstudio.com/docs/setup/mac) to make VS Code accesible from the terminal
+  - Follow instructions [here](https://code.visualstudio.com/docs/setup/mac) to make VS Code accessible from the terminal
 
 **MacUpdater**
 
@@ -158,7 +158,7 @@ List of applications that I download for my Mac
 
 **Transmission**
 
-- Fast, easy, and free bittorrent client native to the Mac.
+- Fast, easy, and free BitTorrent client native to the Mac.
   - [Transmission](https://transmissionbt.com)
 
 **VLC**
