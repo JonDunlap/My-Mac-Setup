@@ -52,13 +52,19 @@ Customize the terminal to add some flair.
 - **Install Oh my ZSH**
   - Install Oh My Zsh following the instructions [here](https://github.com/robbyrussell/oh-my-zsh)
 - **Customize the theme**
+
   - Inside your terminal open the `.zshrc` file that edits your Oh My Zsh environment
+
     - Edit the `.zshrc` file to use the Agnoster theme `ZSH_THEME="agnoster"`
-    - While in the `.zshrc` file add the line `DEFAULT_USER=YOURUSERNAME` where `YOURUSERNAME` is the username that shows up in your terminal if you would like to shorten your name path in terminal
+
   - Need to install the Powerline fonts from [here](https://github.com/powerline/fonts) for the theme to look proper
     - Once installed go to **Terminal > Preferences > Profiles > Text** and change the Font to one of the powerline compatible fonts, I prefer the Source Code Pro font
   - Change your theme to the solarized dark theme colors
     - In terminal you can add a profile to change the theme to match that of the solarized dark theme. [Here](https://gist.github.com/JonDunlap/9ea50b552b0b9d7c84e969866f59baba) is a gist with my solarized terminal profile, or you can go to the [Solarized website](https://ethanschoonover.com/solarized/) to copy the color palette for either the dark or light theme that you prefer.
+    - Your terminal should now look similar to this: ![before terminal](</Images/Before change.png>)
+  - If you want to remove the default path name
+    - In the `.zshrc` file add the line `DEFAULT_USER=YOURUSERNAME` where `YOURUSERNAME` is the username that shows up in your terminal if you would like to shorten your name path in terminal
+    - Your terminal will now look like this: ![after terminal](</Images/After change.png>)
 
 Alternatively you can install [iTerm](https://www.iterm2.com) as your default terminal
 
