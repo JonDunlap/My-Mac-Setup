@@ -56,7 +56,7 @@ Customize the terminal to add some flair.
   - Need to install the Powerline fonts from [here](https://github.com/powerline/fonts) for the theme to look proper
     - Once installed go to **Terminal > Preferences > Profiles > Text** and change the Font to one of the powerline compatible fonts, I prefer the Source Code Pro font
   - Change your theme to the solarized dark theme colors
-    - In terminal you can add a profile to change the theme to match that of the solarized dark theme. I have included one in the files of this repo for your use, or you can go to the [Solarized website](https://ethanschoonover.com/solarized/) to copy the color palette for either the dark or light theme that you prefer.
+    - In terminal you can add a profile to change the theme to match that of the solarized dark theme. [Here](https://gist.github.com/JonDunlap/9ea50b552b0b9d7c84e969866f59baba) is a gist with my solarized terminal profile, or you can go to the [Solarized website](https://ethanschoonover.com/solarized/) to copy the color palette for either the dark or light theme that you prefer.
 
 Alternativly you can install [iTerm](https://www.iterm2.com) as your default terminal
 
