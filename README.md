@@ -6,7 +6,7 @@
 
 [System Preferences](#System-Preferences)
 
-[Terminal](#Terminal-Tools)
+[Terminal Tools](#Terminal-Tools)
 
 [Safari](#Safari)
 
