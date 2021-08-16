@@ -51,6 +51,7 @@ apps=(
 	adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
 	alfred # Application launcher and productivity software https://www.alfredapp.com/
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
+	# bartender # Menu bar icon organizer https://www.macbartender.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
 	firefox # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
@@ -58,6 +59,7 @@ apps=(
 	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
 	google-chrome # Web browser https://www.google.com/chrome/
 	handbrake # Open-source video transcoder https://handbrake.fr/
+	iina # Free and open-source media player https://iina.io/
 	iterm2 # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
 	# karabiner-elements # Keyboard customizer (for Razer mouse) https://karabiner-elements.pqrs.org
 	macupdater # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
@@ -87,7 +89,7 @@ apps=(
 	# vagrant-manager # Manage your vagrant machines in one place https://www.vagrantmanager.com/
 	# virtualbox # Free and open-source hosted hypervisor for x86 virtualization https://www.virtualbox.org/
 	visual-studio-code # Open-source code editor https://code.visualstudio.com/
-	vlc # Multimedia player https://www.videolan.org/vlc/
+	# vlc # Multimedia player https://www.videolan.org/vlc/
 	vmware-fusion # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
 	zoom # Video communication and virtual meeting platform https://www.zoom.us/
 )
