@@ -51,8 +51,8 @@ apps=(
 	adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
 	alfred # Application launcher and productivity software https://www.alfredapp.com/
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
-	# bartender # Menu bar icon organizer https://www.macbartender.com/
-	# chronosync # Synchronization and backup tool https://www.econtechnologies.com/
+	bartender # Menu bar icon organizer https://www.macbartender.com/
+	chronosync # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
 	firefox # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
