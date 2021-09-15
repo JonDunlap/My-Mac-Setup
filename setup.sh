@@ -52,11 +52,13 @@ apps=(
 	alfred # Application launcher and productivity software https://www.alfredapp.com/
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
 	# bartender # Menu bar icon organizer https://www.macbartender.com/
+	# chronosync # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
 	firefox # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
 	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
+	# get-backup-pro # Backup software with folder synchronization https://www.belightsoft.com/products/getbackup/
 	google-chrome # Web browser https://www.google.com/chrome/
 	handbrake # Open-source video transcoder https://handbrake.fr/
 	iina # Free and open-source media player https://iina.io/
@@ -67,6 +69,7 @@ apps=(
 	microsoft-word # https://products.office.com/en-US/word
 	# neo4j # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
 	nordvpn # VPN client for secure internet access and private browsing https://nordvpn.com/
+	notion # App to write, plan, collaborate, and get organized https://www.notion.so/
 	nvidia-geforce-now # Cloud gaming platform https://www.nvidia.com/en-us/geforce-now/download/
 	obs # Open-source software for live streaming and screen recording https://obsproject.com/
 	onedrive # Cloud storage client https://onedrive.live.com/
