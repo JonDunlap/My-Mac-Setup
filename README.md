@@ -249,7 +249,7 @@ Additional software needed for or provided by my school for the purposes of my d
 
 ## Github Student Developer Pack
 
-An amazing pack of software, tools, websites, learning material and more that is constantly updated to provide amazing value to students. Items are either offered free or at severly discounted prices to students.
+An amazing pack of software, tools, websites, learning material and more that is constantly updated to provide amazing value to students. Items are either offered free or at severely discounted prices to students.
 
 - Go to [GitHub Education](https://education.github.com/pack) to register with your student email. You can use an already created GitHub account you just have to link it with your University.
 - Once registered you have access to a wealth of resources to help you develop as a developer.
