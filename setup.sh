@@ -89,6 +89,7 @@ apps=(
 	# termius # SSH client https://www.termius.com/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
 	transmission # Open-source BitTorrent client https://transmissionbt.com/
+	transmit # File transfer application https://panic.com/transmit/
 	# vagrant # Development environment https://www.vagrantup.com/
 	# vagrant-manager # Manage your vagrant machines in one place https://www.vagrantmanager.com/
 	# virtualbox # Free and open-source hosted hypervisor for x86 virtualization https://www.virtualbox.org/
