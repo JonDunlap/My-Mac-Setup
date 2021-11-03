@@ -19,8 +19,6 @@
 
 [Applications](#Applications)
 
-[Full Sail Programs](#Full-Sail-Programs)
-
 [GitHub Student Developer Pack](#github-student-developer-pack)
 
 ## Updates
@@ -227,25 +225,6 @@ Selection of applications available through the App Store that I use. Makes upda
 - Team messaging application, built for larger organizations allowing teams to stay in touch and provide updates. Used for programming courses.
 
   - [Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12) App Store download
-
-## Full Sail Programs
-
-Additional software needed for or provided by my school for the purposes of my degree.
-
-**OnTheHub**
-
-- Software hub that distributes programs and their licenses to registered students.
-- Needed/available programs
-  - **VMWare**
-    - Used for programs that can't or won't run on Mac allowing an alternative OS without having to use Bootcamp.
-  - **Windows 10 Education**
-    - Full version of Windows 10 provided to run with VMWare.
-  - **Microsoft Office**
-    - Full suite of tools for creating documents.
-
-**Adobe Creative Cloud**
-
-- All Adobe products provided for the Web Design/Development degree.
 
 ## Github Student Developer Pack
 
