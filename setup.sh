@@ -29,13 +29,14 @@ brew update
 
 # Brew formulaes
 brews=(
-	antigen # Plugin manager for zsh, inspired by oh-my-zsh and vundle https://antigen.sharats.me/
-	git # Distributed revision control system https://git-scm.com/
-	mackup # Keep your Mac's application settings in sync https://github.com/lra/mackup
-	mas # Mac App Store command-line interface https://github.com/mas-cli/mas
+	antigen  # Plugin manager for zsh, inspired by oh-my-zsh and vundle https://antigen.sharats.me/
+	dockutil # Tool for managing dock items https://github.com/kcrawford/dockutil
+	git      # Distributed revision control system https://git-scm.com/
+	mackup   # Keep your Mac's application settings in sync https://github.com/lra/mackup
+	mas      # Mac App Store command-line interface https://github.com/mas-cli/mas
 	neofetch # Fast, highly customisable system info script https://github.com/dylanaraps/neofetch
-	nvm # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
-	trash # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
+	nvm      # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
+	trash    # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
 )
 
 # Install Brew formulaes
@@ -46,13 +47,13 @@ brew install ${brews[@]}
 
 # Brew Apps/Casks
 apps=(
-	1password # Password manager that keeps all passwords secure behind one password https://1password.com
-	4k-video-downloader #Free video downloader https://www.4kdownload.com/products/product-videodownloader
+	1password            # Password manager that keeps all passwords secure behind one password https://1password.com
+	4k-video-downloader  #Free video downloader https://www.4kdownload.com/products/product-videodownloader
 	adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
-	alfred # Application launcher and productivity software https://www.alfredapp.com/
-	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
-	bartender # Menu bar icon organizer https://www.macbartender.com/
-	chronosync # Synchronization and backup tool https://www.econtechnologies.com/
+	alfred               # Application launcher and productivity software https://www.alfredapp.com/
+	appcleaner           # Application uninstaller https://freemacsoft.net/appcleaner/
+	bartender            # Menu bar icon organizer https://www.macbartender.com/
+	chronosync           # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
 	discord # Voice and text chat software https://discord.com/
 	firefox # Web browser https://www.mozilla.org/firefox/
@@ -61,19 +62,19 @@ apps=(
 	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
 	# get-backup-pro # Backup software with folder synchronization https://www.belightsoft.com/products/getbackup/
 	google-chrome # Web browser https://www.google.com/chrome/
-	handbrake # Open-source video transcoder https://handbrake.fr/
-	iina # Free and open-source media player https://iina.io/
-	iterm2 # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
+	handbrake     # Open-source video transcoder https://handbrake.fr/
+	iina          # Free and open-source media player https://iina.io/
+	iterm2        # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
 	# karabiner-elements # Keyboard customizer (for Razer mouse) https://karabiner-elements.pqrs.org
 	macupdater # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
 	# mamp # Web development solution with Apache, Nginx, PHP & MySQL https://www.mamp.info/
 	microsoft-word # https://products.office.com/en-US/word
 	# neo4j # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
-	nordvpn # VPN client for secure internet access and private browsing https://nordvpn.com/
-	notion # App to write, plan, collaborate, and get organized https://www.notion.so/
+	nordvpn            # VPN client for secure internet access and private browsing https://nordvpn.com/
+	notion             # App to write, plan, collaborate, and get organized https://www.notion.so/
 	nvidia-geforce-now # Cloud gaming platform https://www.nvidia.com/en-us/geforce-now/download/
-	obs # Open-source software for live streaming and screen recording https://obsproject.com/
-	onedrive # Cloud storage client https://onedrive.live.com/
+	obs                # Open-source software for live streaming and screen recording https://obsproject.com/
+	onedrive           # Cloud storage client https://onedrive.live.com/
 	# paw #HTTP client that helps testing and describing APIs https://paw.cloud/
 	# popsql # Collaborative SQL editor for your team https://popsql.com
 	# postgres-unofficial # App wrapper for PostgreSQL https://postgresapp.com/
@@ -89,14 +90,14 @@ apps=(
 	# termius # SSH client https://www.termius.com/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
 	transmission # Open-source BitTorrent client https://transmissionbt.com/
-	transmit # File transfer application https://panic.com/transmit/
+	transmit     # File transfer application https://panic.com/transmit/
 	# vagrant # Development environment https://www.vagrantup.com/
 	# vagrant-manager # Manage your vagrant machines in one place https://www.vagrantmanager.com/
 	# virtualbox # Free and open-source hosted hypervisor for x86 virtualization https://www.virtualbox.org/
 	visual-studio-code # Open-source code editor https://code.visualstudio.com/
 	# vlc # Multimedia player https://www.videolan.org/vlc/
 	vmware-fusion # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
-	zoom # Video communication and virtual meeting platform https://www.zoom.us/
+	zoom          # Video communication and virtual meeting platform https://www.zoom.us/
 )
 
 # Install apps using Homebrew Casks
@@ -188,7 +189,7 @@ nvm install node
 # Node global packages
 packages=(
 	# https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-	eslint # Globally install eslint, run locally per project by typing `eslint --init`, or use VSCode command `Create ESLint configuration`
+	eslint  # Globally install eslint, run locally per project by typing `eslint --init`, or use VSCode command `Create ESLint configuration`
 	nodemon # Monitor for any changes in your node.js application and automatically restart the server https://github.com/remy/nodemon
 	# npkill # Easily find and remove old and heavy node_modules folders https://npkill.js.org # run using npm npkill inside of directories to clean
 )
