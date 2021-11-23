@@ -29,14 +29,18 @@ brew update
 
 # Brew formulaes
 brews=(
-	antigen  # Plugin manager for zsh, inspired by oh-my-zsh and vundle https://antigen.sharats.me/
-	dockutil # Tool for managing dock items https://github.com/kcrawford/dockutil
-	git      # Distributed revision control system https://git-scm.com/
-	mackup   # Keep your Mac's application settings in sync https://github.com/lra/mackup
-	mas      # Mac App Store command-line interface https://github.com/mas-cli/mas
-	neofetch # Fast, highly customisable system info script https://github.com/dylanaraps/neofetch
-	nvm      # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
-	trash    # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
+	antigen    # Plugin manager for zsh, inspired by oh-my-zsh and vundle https://antigen.sharats.me/
+	dockutil   # Tool for managing dock items https://github.com/kcrawford/dockutil
+	ffmpeg     # Command line tools for processing video and audio files https://www.ffmpeg.org/
+	git        # Distributed revision control system https://git-scm.com/
+	mackup     # Keep your Mac's application settings in sync https://github.com/lra/mackup
+	mas        # Mac App Store command-line interface https://github.com/mas-cli/mas
+	neofetch   # Fast, highly customisable system info script https://github.com/dylanaraps/neofetch
+	nvm        # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
+	trash      # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
+	tree       # Display directories as trees (with optional color/HTML output) https://mama.indstate.edu/users/ice/tree/
+	youtube-dl # Download YouTube videos in mp3, mp4 and other formats https://rg3.github.io/youtube-dl/
+	# additional config options https://github.com/ytdl-org/youtube-dl
 )
 
 # Install Brew formulaes
@@ -76,6 +80,7 @@ apps=(
 	obs                # Open-source software for live streaming and screen recording https://obsproject.com/
 	onedrive           # Cloud storage client https://onedrive.live.com/
 	# paw #HTTP client that helps testing and describing APIs https://paw.cloud/
+	pdf-squeezer # PDF compression tool https://witt-software.com/pdfsqueezer/
 	# popsql # Collaborative SQL editor for your team https://popsql.com
 	# postgres-unofficial # App wrapper for PostgreSQL https://postgresapp.com/
 	# postico # GUI client for PostgreSQL databases https://eggerapps.at/postico/
@@ -95,9 +100,9 @@ apps=(
 	# vagrant-manager # Manage your vagrant machines in one place https://www.vagrantmanager.com/
 	# virtualbox # Free and open-source hosted hypervisor for x86 virtualization https://www.virtualbox.org/
 	visual-studio-code # Open-source code editor https://code.visualstudio.com/
-	# vlc # Multimedia player https://www.videolan.org/vlc/
-	vmware-fusion # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
-	zoom          # Video communication and virtual meeting platform https://www.zoom.us/
+	vlc                # Multimedia player https://www.videolan.org/vlc/
+	vmware-fusion      # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
+	zoom               # Video communication and virtual meeting platform https://www.zoom.us/
 )
 
 # Install apps using Homebrew Casks
