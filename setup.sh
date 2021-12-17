@@ -168,15 +168,16 @@ defaults write com.apple.Safari IncludeDevelopMenu -bool true
 # Kill the finder to implement changes
 killall Finder
 
+#! Move to dockutil/dockbuilder for setting up dock
 # TODO ask the user for how many spacers and feed that variable into this loop
 # Add dock spacers then kill the dock for it to take effect
-echo "Adding Dock Spacers"
-for i in {1..8}; do
-	defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
-done
+# echo "Adding Dock Spacers"
+# for i in {1..8}; do
+# 	defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
+# done
 
 # Kill the dock to implement the changes
-killall Dock
+# killall Dock
 
 ### Setup backup and restore configs from backup
 
