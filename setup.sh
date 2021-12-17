@@ -57,13 +57,13 @@ brew install ${brews[@]}
 
 # Brew Apps/Casks
 apps=(
-	1password            # Password manager that keeps all passwords secure behind one password https://1password.com
-	4k-video-downloader  #Free video downloader https://www.4kdownload.com/products/product-videodownloader
-	adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
-	alfred               # Application launcher and productivity software https://www.alfredapp.com/
-	appcleaner           # Application uninstaller https://freemacsoft.net/appcleaner/
-	bartender            # Menu bar icon organizer https://www.macbartender.com/
-	chronosync           # Synchronization and backup tool https://www.econtechnologies.com/
+	1password           # Password manager that keeps all passwords secure behind one password https://1password.com
+	4k-video-downloader #Free video downloader https://www.4kdownload.com/products/product-videodownloader
+	# adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
+	alfred     # Application launcher and productivity software https://www.alfredapp.com/
+	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
+	bartender  # Menu bar icon organizer https://www.macbartender.com/
+	chronosync # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
 	discord # Voice and text chat software https://discord.com/
 	firefox # Web browser https://www.mozilla.org/firefox/
