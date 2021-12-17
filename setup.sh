@@ -9,6 +9,8 @@
 
 # TODO - update Mac first?
 
+### Install Xcode Command Line Tools
+
 # Check for XCode Command Line Tools
 # Install if we don't have it
 if test ! $(which xcode-select); then
@@ -132,15 +134,17 @@ read -p "Press [Enter] key after logging in."
 
 # Mac App Store applications
 macapps=(
-	1402042596 # AdBlock for Safari
-	424390742  # Compressor
-	424389933  # Final Cut Pro
-	682658836  # Garage Band
-	1462114288 # Grammarly for Safari
-	409183694  # Keynote
-	409203825  # Numbers
-	409201541  # Pages
-	# 1176895641 # Spark email client
+	1402042596 # AdBlock for Safari https://apps.apple.com/th/app/adblock-for-safari/id1402042596?mt=12
+	424390742  # Compressor https://apps.apple.com/th/app/compressor/id424390742?mt=12
+	424389933  # Final Cut Pro https://apps.apple.com/th/app/final-cut-pro/id424389933?mt=12
+	682658836  # Garage Band https://apps.apple.com/th/app/garageband/id682658836?mt=12
+	1462114288 # Grammarly for Safari https://apps.apple.com/th/app/grammarly-for-safari/id1462114288?mt=12
+	409183694  # Keynote https://apps.apple.com/th/app/keynote/id409183694?mt=12
+	434290957  # Motion https://apps.apple.com/th/app/motion/id434290957?mt=12
+	409203825  # Numbers https://apps.apple.com/th/app/numbers/id409203825?mt=12
+	409201541  # Pages https://apps.apple.com/th/app/pages/id409201541?mt=12
+	# 1176895641 # Spark email client https://apps.apple.com/th/app/spark-email-app-by-readdle/id1176895641?mt=12
+	497799835 # Xcode https://apps.apple.com/th/app/xcode/id497799835?mt=12
 )
 
 # Install Mac apps using mas-cli https://github.com/mas-cli/mas
