@@ -9,8 +9,12 @@
 
 # TODO - update Mac first?
 
-echo "Installing xcode-stuff"
-xcode-select --install
+# Check for XCode Command Line Tools
+# Install if we don't have it
+if test ! $(which xcode-select); then
+	echo "Installing XCode Command Line Tools"
+	xcode-select --install
+fi
 
 ### Install and update Homebrew
 
