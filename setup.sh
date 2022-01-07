@@ -72,12 +72,12 @@ apps=(
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
 	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
 	# get-backup-pro # Backup software with folder synchronization https://www.belightsoft.com/products/getbackup/
-	google-chrome # Web browser https://www.google.com/chrome/
-	handbrake     # Open-source video transcoder https://handbrake.fr/
-	iina          # Free and open-source media player https://iina.io/
-	iterm2        # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
-	# karabiner-elements # Keyboard customizer (for Razer mouse) https://karabiner-elements.pqrs.org
-	macupdater # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
+	google-chrome      # Web browser https://www.google.com/chrome/
+	handbrake          # Open-source video transcoder https://handbrake.fr/
+	iina               # Free and open-source media player https://iina.io/
+	iterm2             # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
+	karabiner-elements # Keyboard customizer (for mouse/keyboard customization) https://karabiner-elements.pqrs.org
+	macupdater         # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
 	# mamp # Web development solution with Apache, Nginx, PHP & MySQL https://www.mamp.info/
 	# microsoft-word # https://products.office.com/en-US/word
 	# neo4j # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
