@@ -65,8 +65,9 @@ apps=(
 	bartender  # Menu bar icon organizer https://www.macbartender.com/
 	# chronosync # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
-	discord # Voice and text chat software https://discord.com/
-	firefox # Web browser https://www.mozilla.org/firefox/
+	discord    # Voice and text chat software https://discord.com/
+	dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
+	firefox    # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
 	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
