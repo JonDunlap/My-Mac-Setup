@@ -94,6 +94,7 @@ apps=(
 	# postman # Collaboration platform for API development https://www.postman.com/
 	rectangle # Move and resize windows using keyboard shortcuts or snap areas https://rectangleapp.com/
 	# sequel-pro # MySQL/MariaDB database management platform https://www.sequelpro.com/
+	skype # Video chat, voice call and instant messaging application https://www.skype.com/
 	# slack # Team communication and collaboration software https://slack.com/
 	# sourcetree # Graphical client for Git version control https://www.sourcetreeapp.com
 	steam # Video game digital distribution service https://store.steampowered.com/about/
