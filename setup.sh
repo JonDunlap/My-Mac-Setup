@@ -145,7 +145,7 @@ macapps=(
 	434290957  # Motion https://apps.apple.com/th/app/motion/id434290957?mt=12
 	409203825  # Numbers https://apps.apple.com/th/app/numbers/id409203825?mt=12
 	409201541  # Pages https://apps.apple.com/th/app/pages/id409201541?mt=12
-	# 1176895641 # Spark email client https://apps.apple.com/th/app/spark-email-app-by-readdle/id1176895641?mt=12
+	1176895641 # Spark email client https://apps.apple.com/th/app/spark-email-app-by-readdle/id1176895641?mt=12
 	# 497799835 # Xcode https://apps.apple.com/th/app/xcode/id497799835?mt=12
 )
 
