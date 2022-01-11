@@ -102,6 +102,7 @@ apps=(
 	# studio-3t # IDE, client, and GUI for MongoDB https://studio3t.com/
 	symboliclinker # Service that allows users to make symbolic links in the Finder https://github.com/nickzman/symboliclinker
 	# termius # SSH client https://www.termius.com/
+	textual # Application for interacting with Internet Relay Chat (IRC) chatrooms https://www.codeux.com/textual/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
 	transmission-cli # Open-source BitTorrent client https://transmissionbt.com/
 	# transmit         # File transfer application https://panic.com/transmit/
