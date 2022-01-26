@@ -77,6 +77,7 @@ apps=(
 	handbrake          # Open-source video transcoder https://handbrake.fr/
 	iina               # Free and open-source media player https://iina.io/
 	iterm2             # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
+	jetbrains-toolbox  # JetBrains tools manager https://www.jetbrains.com/toolbox-app/
 	karabiner-elements # Keyboard customizer (for mouse/keyboard customization) https://karabiner-elements.pqrs.org
 	macupdater         # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
 	# mamp # Web development solution with Apache, Nginx, PHP & MySQL https://www.mamp.info/
