@@ -102,6 +102,7 @@ apps=(
 	steam # Video game digital distribution service https://store.steampowered.com/about/
 	# studio-3t # IDE, client, and GUI for MongoDB https://studio3t.com/
 	symboliclinker # Service that allows users to make symbolic links in the Finder https://github.com/nickzman/symboliclinker
+	temurin        # Open source JDK from the Eclipse Foundation (Adoptium) https://adoptium.net/
 	# termius # SSH client https://www.termius.com/
 	textual # Application for interacting with Internet Relay Chat (IRC) chatrooms https://www.codeux.com/textual/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
