@@ -68,6 +68,7 @@ apps=(
 	discord    # Voice and text chat software https://discord.com/
 	dosbox     # DOS emulator https://www.dosbox.com/
 	dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
+	fig        # VSCode style autocomplete for your terminal https://fig.io
 	firefox    # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
@@ -104,7 +105,7 @@ apps=(
 	symboliclinker # Service that allows users to make symbolic links in the Finder https://github.com/nickzman/symboliclinker
 	temurin        # Open source JDK from the Eclipse Foundation (Adoptium) https://adoptium.net/
 	# termius # SSH client https://www.termius.com/
-	textual # Application for interacting with Internet Relay Chat (IRC) chatrooms https://www.codeux.com/textual/
+	# textual # Application for interacting with Internet Relay Chat (IRC) chatrooms https://www.codeux.com/textual/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
 	transmission-cli # Open-source BitTorrent client https://transmissionbt.com/
 	# transmit         # File transfer application https://panic.com/transmit/
