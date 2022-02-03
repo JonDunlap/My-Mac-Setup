@@ -1,5 +1,6 @@
 ## TODO
 
+    	- * Move to Ansible for omnipotent installation *
     - update readme to include installation instructions using the new shell script.
     - update sections to include description & links for apps/formulas/etc that are being used in the shell script.
     - provide links to student discounts and apps for students
