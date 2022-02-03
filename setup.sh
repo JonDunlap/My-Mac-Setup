@@ -109,9 +109,9 @@ apps=(
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
 	transmission-cli # Open-source BitTorrent client https://transmissionbt.com/
 	# transmit         # File transfer application https://panic.com/transmit/
-	# vagrant # Development environment https://www.vagrantup.com/
-	# vagrant-manager # Manage your vagrant machines in one place https://www.vagrantmanager.com/
-	# virtualbox # Free and open-source hosted hypervisor for x86 virtualization https://www.virtualbox.org/
+	vagrant            # Development environment https://www.vagrantup.com/
+	vagrant-manager    # Manage your vagrant machines in one place https://www.vagrantmanager.com/
+	virtualbox         # Free and open-source hosted hypervisor for x86 virtualization https://www.virtualbox.org/
 	visual-studio-code # Open-source code editor https://code.visualstudio.com/
 	vlc                # Multimedia player https://www.videolan.org/vlc/
 	vmware-fusion      # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
