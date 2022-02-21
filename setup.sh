@@ -63,6 +63,7 @@ apps=(
 	alfred     # Application launcher and productivity software https://www.alfredapp.com/
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
 	bartender  # Menu bar icon organizer https://www.macbartender.com/
+	caffeine   # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
 	# chronosync # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
 	discord    # Voice and text chat software https://discord.com/
