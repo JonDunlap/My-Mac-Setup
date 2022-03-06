@@ -37,14 +37,17 @@ brew update
 brews=(
 	antigen    # Plugin manager for zsh, inspired by oh-my-zsh and vundle https://antigen.sharats.me/
 	dockutil   # Tool for managing dock items https://github.com/kcrawford/dockutil
+	fdupes     #! update description
 	ffmpeg     # Command line tools for processing video and audio files https://www.ffmpeg.org/
 	git        # Distributed revision control system https://git-scm.com/
+	htop       #! update description
 	mackup     # Keep your Mac's application settings in sync https://github.com/lra/mackup
 	mas        # Mac App Store command-line interface https://github.com/mas-cli/mas
 	neofetch   # Fast, highly customisable system info script https://github.com/dylanaraps/neofetch
 	nvm        # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
 	trash      # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
 	tree       # Display directories as trees (with optional color/HTML output) https://mama.indstate.edu/users/ice/tree/
+	wget       #! update description
 	youtube-dl # Download YouTube videos in mp3, mp4 and other formats https://rg3.github.io/youtube-dl/
 	# additional config options https://github.com/ytdl-org/youtube-dl
 )
@@ -62,34 +65,36 @@ apps=(
 	# adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
 	alfred     # Application launcher and productivity software https://www.alfredapp.com/
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
-	bartender  # Menu bar icon organizer https://www.macbartender.com/
-	caffeine   # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
+	# bartender  # Menu bar icon organizer https://www.macbartender.com/
+	caffeine # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
 	# chronosync # Synchronization and backup tool https://www.econtechnologies.com/
 	# daisydisk # Disk space visualizer https://daisydiskapp.com/
-	discord    # Voice and text chat software https://discord.com/
-	dosbox     # DOS emulator https://www.dosbox.com/
-	dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
-	fig        # VSCode style autocomplete for your terminal https://fig.io
-	firefox    # Web browser https://www.mozilla.org/firefox/
+	discord # Voice and text chat software https://discord.com/
+	docker  # Container runtime https://www.docker.com/ #! update description
+	dosbox  # DOS emulator https://www.dosbox.com/
+	# dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
+	fig     # VSCode style autocomplete for your terminal https://fig.io
+	firefox # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
 	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
 	# get-backup-pro # Backup software with folder synchronization https://www.belightsoft.com/products/getbackup/
-	google-chrome      # Web browser https://www.google.com/chrome/
-	handbrake          # Open-source video transcoder https://handbrake.fr/
-	iina               # Free and open-source media player https://iina.io/
-	iterm2             # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
-	jetbrains-toolbox  # JetBrains tools manager https://www.jetbrains.com/toolbox-app/
+	google-chrome # Web browser https://www.google.com/chrome/
+	handbrake     # Open-source video transcoder https://handbrake.fr/
+	iina          # Free and open-source media player https://iina.io/
+	iterm2        # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
+	# jetbrains-toolbox  # JetBrains tools manager https://www.jetbrains.com/toolbox-app/
 	karabiner-elements # Keyboard customizer (for mouse/keyboard customization) https://karabiner-elements.pqrs.org
 	macupdater         # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
 	# mamp # Web development solution with Apache, Nginx, PHP & MySQL https://www.mamp.info/
+	# microsoft-teams # Microsoft Teams https://www.microsoft.com/teams #! update description
 	# microsoft-word # https://products.office.com/en-US/word
 	# neo4j # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
-	nordvpn # VPN client for secure internet access and private browsing https://nordvpn.com/
-	# notion             # App to write, plan, collaborate, and get organized https://www.notion.so/
+	nordvpn            # VPN client for secure internet access and private browsing https://nordvpn.com/
+	notion             # App to write, plan, collaborate, and get organized https://www.notion.so/
 	nvidia-geforce-now # Cloud gaming platform https://www.nvidia.com/en-us/geforce-now/download/
 	obs                # Open-source software for live streaming and screen recording https://obsproject.com/
-	# onedrive           # Cloud storage client https://onedrive.live.com/
+	# onedrive         # Cloud storage client https://onedrive.live.com/
 	# paw #HTTP client that helps testing and describing APIs https://paw.cloud/
 	pdf-squeezer # PDF compression tool https://witt-software.com/pdfsqueezer/
 	# popsql # Collaborative SQL editor for your team https://popsql.com
@@ -101,14 +106,15 @@ apps=(
 	skype # Video chat, voice call and instant messaging application https://www.skype.com/
 	# slack # Team communication and collaboration software https://slack.com/
 	# sourcetree # Graphical client for Git version control https://www.sourcetreeapp.com
-	steam # Video game digital distribution service https://store.steampowered.com/about/
+	ssh-config-editor #! update description
+	steam             # Video game digital distribution service https://store.steampowered.com/about/
 	# studio-3t # IDE, client, and GUI for MongoDB https://studio3t.com/
 	symboliclinker # Service that allows users to make symbolic links in the Finder https://github.com/nickzman/symboliclinker
 	temurin        # Open source JDK from the Eclipse Foundation (Adoptium) https://adoptium.net/
 	# termius # SSH client https://www.termius.com/
 	# textual # Application for interacting with Internet Relay Chat (IRC) chatrooms https://www.codeux.com/textual/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
-	transmission-cli # Open-source BitTorrent client https://transmissionbt.com/
+	transmission # Open-source BitTorrent client https://transmissionbt.com/
 	# transmit         # File transfer application https://panic.com/transmit/
 	vagrant            # Development environment https://www.vagrantup.com/
 	vagrant-manager    # Manage your vagrant machines in one place https://www.vagrantmanager.com/
@@ -116,14 +122,28 @@ apps=(
 	visual-studio-code # Open-source code editor https://code.visualstudio.com/
 	vlc                # Multimedia player https://www.videolan.org/vlc/
 	vmware-fusion      # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
-	zoom               # Video communication and virtual meeting platform https://www.zoom.us/
+	# zoom             # Video communication and virtual meeting platform https://www.zoom.us/
 )
 
 # Install apps using Homebrew Casks
 echo "Installing apps with Cask..."
 brew install --cask ${apps[@]}
 
-# TODO install our custom fonts and stuff
+### Install fonts
+
+# Tap homebrew-cask-fonts https://github.com/Homebrew/homebrew-cask-fonts
+echo "Tapping Homebrew cask fonts..."
+brew tap homebrew/cask-fonts
+
+# List of fonts
+fonts=(
+	fira-code
+	meslo-lg-nerd-font
+)
+
+# Install fonts
+echo "Installing fonts..."
+brew install --cask ${fonts[@]/#/font-}
 
 ### Clean up Homebrew
 
@@ -143,12 +163,12 @@ read -p "Press [Enter] key after logging in."
 # Mac App Store applications
 macapps=(
 	1402042596 # AdBlock for Safari https://apps.apple.com/th/app/adblock-for-safari/id1402042596?mt=12
-	424390742  # Compressor https://apps.apple.com/th/app/compressor/id424390742?mt=12
-	424389933  # Final Cut Pro https://apps.apple.com/th/app/final-cut-pro/id424389933?mt=12
-	682658836  # Garage Band https://apps.apple.com/th/app/garageband/id682658836?mt=12
+	# 424390742  # Compressor https://apps.apple.com/th/app/compressor/id424390742?mt=12
+	# 424389933  # Final Cut Pro https://apps.apple.com/th/app/final-cut-pro/id424389933?mt=12
+	# 682658836  # Garage Band https://apps.apple.com/th/app/garageband/id682658836?mt=12
 	1462114288 # Grammarly for Safari https://apps.apple.com/th/app/grammarly-for-safari/id1462114288?mt=12
-	409183694  # Keynote https://apps.apple.com/th/app/keynote/id409183694?mt=12
-	434290957  # Motion https://apps.apple.com/th/app/motion/id434290957?mt=12
+	# 409183694  # Keynote https://apps.apple.com/th/app/keynote/id409183694?mt=12
+	# 434290957  # Motion https://apps.apple.com/th/app/motion/id434290957?mt=12
 	409203825  # Numbers https://apps.apple.com/th/app/numbers/id409203825?mt=12
 	409201541  # Pages https://apps.apple.com/th/app/pages/id409201541?mt=12
 	1176895641 # Spark email client https://apps.apple.com/th/app/spark-email-app-by-readdle/id1176895641?mt=12
@@ -192,8 +212,11 @@ killall Finder
 # TODO - give the user the option to select their storage option and drive
 # TODO - test if the config file exists before writing to it
 # Create mackup config file, set directory to icloud, then restore
-echo "Creating mackup config file & setting storage to iCloud"
-echo -e "[storage]\nengine = icloud\ndirectory = backups/mackup" >>~/.mackup.cfg
+echo "Creating mackup config file & setting storage to local storage"
+echo -e "[storage]\nengine = file_system\npath = /Users/jonathandunlap/Backups\ndirectory = mackup" >>~/.mackup.cfg
+
+echo "Pulling backup from GitHub and saving locally"
+git clone https://github.com/JonDunlap/Backups.git ~/Backups
 
 # Restore configs from current backup (if it exists)
 echo "Restoring setup from Mackup..."
