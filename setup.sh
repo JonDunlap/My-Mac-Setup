@@ -35,7 +35,6 @@ brew update
 
 # Brew formulaes
 brews=(
-	antigen    # Plugin manager for zsh, inspired by oh-my-zsh and vundle https://antigen.sharats.me/
 	dockutil   # Tool for managing dock items https://github.com/kcrawford/dockutil
 	fdupes     #! update description
 	ffmpeg     # Command line tools for processing video and audio files https://www.ffmpeg.org/
