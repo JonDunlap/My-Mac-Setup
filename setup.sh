@@ -35,20 +35,26 @@ brew update
 
 # Brew formulaes
 brews=(
-	dockutil   # Tool for managing dock items https://github.com/kcrawford/dockutil
-	fdupes     #! update description
-	ffmpeg     # Command line tools for processing video and audio files https://www.ffmpeg.org/
-	git        # Distributed revision control system https://git-scm.com/
-	htop       #! update description
-	mackup     # Keep your Mac's application settings in sync https://github.com/lra/mackup
-	mas        # Mac App Store command-line interface https://github.com/mas-cli/mas
-	neofetch   # Fast, highly customisable system info script https://github.com/dylanaraps/neofetch
-	nvm        # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
-	trash      # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
-	tree       # Display directories as trees (with optional color/HTML output) https://mama.indstate.edu/users/ice/tree/
-	wget       #! update description
-	youtube-dl # Download YouTube videos in mp3, mp4 and other formats https://rg3.github.io/youtube-dl/
+	dockutil                            # Tool for managing dock items https://github.com/kcrawford/dockutil
+	fdupes                              # Identify or delete duplicate files https://github.com/adrianlopezroche/fdupes
+	ffmpeg                              # Command line tools for processing video and audio files https://www.ffmpeg.org/
+	git                                 # Distributed revision control system https://git-scm.com/
+	htop                                # Improved top (interactive process viewer) https://htop.dev/
+	mackup                              # Keep your Mac's application settings in sync https://github.com/lra/mackup
+	mas                                 # Mac App Store command-line interface https://github.com/mas-cli/mas
+	neofetch                            # Fast, highly customisable system info script https://github.com/dylanaraps/neofetch
+	nvm                                 # Manage multiple Node.js versions https://github.com/nvm-sh/nvm
+	romkatv/powerlevel10k/powerlevel10k # Powerlevel10k is a theme for Zsh https://github.com/romkatv/powerlevel10k
+	trash                               # CLI tool that moves files or folder to the trash https://hasseg.org/trash/
+	tree                                # Display directories as trees (with optional color/HTML output) https://mama.indstate.edu/users/ice/tree/
+	wget                                # Internet file retriever https://www.gnu.org/software/wget/
+	youtube-dl                          # Download YouTube videos in mp3, mp4 and other formats https://rg3.github.io/youtube-dl/
 	# additional config options https://github.com/ytdl-org/youtube-dl
+	zsh-autosuggestions          # Fish-like fast/unobtrusive autosuggestions for zsh
+	zsh-completions              # Additional completion definitions for zsh
+	zsh-history-substring-search # Zsh port of Fish shell's history search
+	zsh-syntax-highlighting      # Fish shell like syntax highlighting for zsh
+	zsh-you-should-use           # ZSH plugin that reminds you to use existing aliases for commands you just typed
 )
 
 # Install Brew formulaes
