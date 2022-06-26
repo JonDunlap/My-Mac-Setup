@@ -70,20 +70,16 @@ apps=(
 	# adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
 	alfred     # Application launcher and productivity software https://www.alfredapp.com/
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
-	# bartender  # Menu bar icon organizer https://www.macbartender.com/
-	caffeine # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
-	# chronosync # Synchronization and backup tool https://www.econtechnologies.com/
-	# daisydisk # Disk space visualizer https://daisydiskapp.com/
-	discord # Voice and text chat software https://discord.com/
-	docker  # Container runtime https://www.docker.com/ #! update description
-	dosbox  # DOS emulator https://www.dosbox.com/
+	caffeine   # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
+	discord    # Voice and text chat software https://discord.com/
+	docker     # Container runtime https://www.docker.com/ #! update description
+	dosbox     # DOS emulator https://www.dosbox.com/
 	# dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
 	fig     # VSCode style autocomplete for your terminal https://fig.io
 	firefox # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
-	gdlauncher # Custom Minecraft Launcher https://gdevs.io/
-	# get-backup-pro # Backup software with folder synchronization https://www.belightsoft.com/products/getbackup/
+	gdlauncher    # Custom Minecraft Launcher https://gdevs.io/
 	google-chrome # Web browser https://www.google.com/chrome/
 	handbrake     # Open-source video transcoder https://handbrake.fr/
 	iina          # Free and open-source media player https://iina.io/
@@ -91,33 +87,24 @@ apps=(
 	# jetbrains-toolbox  # JetBrains tools manager https://www.jetbrains.com/toolbox-app/
 	karabiner-elements # Keyboard customizer (for mouse/keyboard customization) https://karabiner-elements.pqrs.org
 	macupdater         # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
-	# mamp # Web development solution with Apache, Nginx, PHP & MySQL https://www.mamp.info/
-	# microsoft-teams # Microsoft Teams https://www.microsoft.com/teams #! update description
-	# microsoft-word # https://products.office.com/en-US/word
 	# neo4j # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
 	nordvpn            # VPN client for secure internet access and private browsing https://nordvpn.com/
 	notion             # App to write, plan, collaborate, and get organized https://www.notion.so/
 	nvidia-geforce-now # Cloud gaming platform https://www.nvidia.com/en-us/geforce-now/download/
 	obs                # Open-source software for live streaming and screen recording https://obsproject.com/
-	# onedrive         # Cloud storage client https://onedrive.live.com/
-	# paw #HTTP client that helps testing and describing APIs https://paw.cloud/
-	pdf-squeezer # PDF compression tool https://witt-software.com/pdfsqueezer/
+	pdf-squeezer       # PDF compression tool https://witt-software.com/pdfsqueezer/
 	# popsql # Collaborative SQL editor for your team https://popsql.com
 	# postgres-unofficial # App wrapper for PostgreSQL https://postgresapp.com/
 	# postico # GUI client for PostgreSQL databases https://eggerapps.at/postico/
-	# postman # Collaboration platform for API development https://www.postman.com/
+	postman   # Collaboration platform for API development https://www.postman.com/
 	rectangle # Move and resize windows using keyboard shortcuts or snap areas https://rectangleapp.com/
 	# sequel-pro # MySQL/MariaDB database management platform https://www.sequelpro.com/
-	skype # Video chat, voice call and instant messaging application https://www.skype.com/
 	# slack # Team communication and collaboration software https://slack.com/
-	# sourcetree # Graphical client for Git version control https://www.sourcetreeapp.com
 	ssh-config-editor #! update description
 	steam             # Video game digital distribution service https://store.steampowered.com/about/
 	# studio-3t # IDE, client, and GUI for MongoDB https://studio3t.com/
 	symboliclinker # Service that allows users to make symbolic links in the Finder https://github.com/nickzman/symboliclinker
 	temurin        # Open source JDK from the Eclipse Foundation (Adoptium) https://adoptium.net/
-	# termius # SSH client https://www.termius.com/
-	# textual # Application for interacting with Internet Relay Chat (IRC) chatrooms https://www.codeux.com/textual/
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
 	transmission # Open-source BitTorrent client https://transmissionbt.com/
 	# transmit         # File transfer application https://panic.com/transmit/
