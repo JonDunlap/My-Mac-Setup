@@ -65,48 +65,57 @@ brew install ${brews[@]}
 
 # Brew Apps/Casks
 apps=(
-	1password           # Password manager that keeps all passwords secure behind one password https://1password.com
-	4k-video-downloader #Free video downloader https://www.4kdownload.com/products/product-videodownloader
+	1password # Password manager that keeps all passwords secure behind one password https://1password.com
+	# 4k-video-downloader #Free video downloader https://www.4kdownload.com/products/product-videodownloader
 	# adobe-creative-cloud # Collection of apps and services for photography, design, video, web, and UX https://www.adobe.com/creativecloud.html
-	alfred     # Application launcher and productivity software https://www.alfredapp.com/
+	alfred # Application launcher and productivity software https://www.alfredapp.com/
+	android-studio
 	appcleaner # Application uninstaller https://freemacsoft.net/appcleaner/
-	caffeine   # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
-	discord    # Voice and text chat software https://discord.com/
-	docker     # Container runtime https://www.docker.com/ #! update description
-	dosbox     # DOS emulator https://www.dosbox.com/
-	# dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
+	# balenaetcher
+	# blackhole-2ch
+	caffeine # Utility that prevents the system from going to sleep https://intelliscapesolutions.com/apps/caffeine
+	# curseforge
+	# discord    # Voice and text chat software https://discord.com/
+	docker # Container runtime https://www.docker.com/ #! update description
+	# dosbox     # DOS emulator https://www.dosbox.com/
+	dotnet-sdk # .NET Core SDK https://www.microsoft.com/net/core#macos
+	eclipse-java
 	fig     # VSCode style autocomplete for your terminal https://fig.io
 	firefox # Web browser https://www.mozilla.org/firefox/
 	# firefox-developer-edition #! Manual download
 	# gcollazo-mongodb # App wrapper for MongoDB https://elweb.co/mongodb-app/, https://gcollazo.github.io/mongodbapp/
-	gdlauncher    # Custom Minecraft Launcher https://gdevs.io/
+	# gdlauncher    # Custom Minecraft Launcher https://gdevs.io/
 	google-chrome # Web browser https://www.google.com/chrome/
-	handbrake     # Open-source video transcoder https://handbrake.fr/
-	iina          # Free and open-source media player https://iina.io/
-	iterm2        # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
-	# jetbrains-toolbox  # JetBrains tools manager https://www.jetbrains.com/toolbox-app/
+	# handbrake     # Open-source video transcoder https://handbrake.fr/
+	# iina          # Free and open-source media player https://iina.io/
+	imageoptim
+	iterm2             # Terminal emulator as alternative to Apple's Terminal app https://www.iterm2.com/
+	jetbrains-toolbox  # JetBrains tools manager https://www.jetbrains.com/toolbox-app/
 	karabiner-elements # Keyboard customizer (for mouse/keyboard customization) https://karabiner-elements.pqrs.org
 	macupdater         # Track and update to the latest versions of installed software https://www.corecode.io/macupdater/index.html
-	# neo4j # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
-	nordvpn            # VPN client for secure internet access and private browsing https://nordvpn.com/
-	notion             # App to write, plan, collaborate, and get organized https://www.notion.so/
-	nvidia-geforce-now # Cloud gaming platform https://www.nvidia.com/en-us/geforce-now/download/
-	obs                # Open-source software for live streaming and screen recording https://obsproject.com/
-	pdf-squeezer       # PDF compression tool https://witt-software.com/pdfsqueezer/
-	# popsql # Collaborative SQL editor for your team https://popsql.com
-	# postgres-unofficial # App wrapper for PostgreSQL https://postgresapp.com/
-	# postico # GUI client for PostgreSQL databases https://eggerapps.at/postico/
-	postman   # Collaboration platform for API development https://www.postman.com/
-	rectangle # Move and resize windows using keyboard shortcuts or snap areas https://rectangleapp.com/
-	# sequel-pro # MySQL/MariaDB database management platform https://www.sequelpro.com/
-	# slack # Team communication and collaboration software https://slack.com/
-	ssh-config-editor #! update description
-	steam             # Video game digital distribution service https://store.steampowered.com/about/
-	# studio-3t # IDE, client, and GUI for MongoDB https://studio3t.com/
+	# microsoft-teams
+	mongodb-compass
+	neo4j   # Developer IDE or Management Environment for Neo4j instances https://neo4j.com/download/
+	nordvpn # VPN client for secure internet access and private browsing https://nordvpn.com/
+	notion  # App to write, plan, collaborate, and get organized https://www.notion.so/
+	# nvidia-geforce-now # Cloud gaming platform https://www.nvidia.com/en-us/geforce-now/download/
+	# obs                # Open-source software for live streaming and screen recording https://obsproject.com/
+	pdf-squeezer        # PDF compression tool https://witt-software.com/pdfsqueezer/
+	popsql              # Collaborative SQL editor for your team https://popsql.com
+	postgres-unofficial # App wrapper for PostgreSQL https://postgresapp.com/
+	postico             # GUI client for PostgreSQL databases https://eggerapps.at/postico/
+	postman             # Collaboration platform for API development https://www.postman.com/
+	rectangle           # Move and resize windows using keyboard shortcuts or snap areas https://rectangleapp.com/
+	sequel-pro          # MySQL/MariaDB database management platform https://www.sequelpro.com/
+	slack               # Team communication and collaboration software https://slack.com/
+	ssh-config-editor   #! update description
+	# steam             # Video game digital distribution service https://store.steampowered.com/about/
+	studio-3t      # IDE, client, and GUI for MongoDB https://studio3t.com/
 	symboliclinker # Service that allows users to make symbolic links in the Finder https://github.com/nickzman/symboliclinker
 	temurin        # Open source JDK from the Eclipse Foundation (Adoptium) https://adoptium.net/
+	termius
 	# the-unarchiver # Unpacks archive files https://theunarchiver.com/
-	transmission # Open-source BitTorrent client https://transmissionbt.com/
+	# transmission # Open-source BitTorrent client https://transmissionbt.com/
 	# transmit         # File transfer application https://panic.com/transmit/
 	vagrant            # Development environment https://www.vagrantup.com/
 	vagrant-manager    # Manage your vagrant machines in one place https://www.vagrantmanager.com/
@@ -114,7 +123,7 @@ apps=(
 	visual-studio-code # Open-source code editor https://code.visualstudio.com/
 	vlc                # Multimedia player https://www.videolan.org/vlc/
 	vmware-fusion      # App to run other operating systems without rebooting https://www.vmware.com/products/fusion.html
-	# zoom             # Video communication and virtual meeting platform https://www.zoom.us/
+	zoom               # Video communication and virtual meeting platform https://www.zoom.us/
 )
 
 # Install apps using Homebrew Casks
@@ -154,6 +163,7 @@ read -p "Press [Enter] key after logging in."
 
 # Mac App Store applications
 macapps=(
+	1569813296 # 1Password for Safari
 	1402042596 # AdBlock for Safari https://apps.apple.com/th/app/adblock-for-safari/id1402042596?mt=12
 	# 424390742  # Compressor https://apps.apple.com/th/app/compressor/id424390742?mt=12
 	# 424389933  # Final Cut Pro https://apps.apple.com/th/app/final-cut-pro/id424389933?mt=12
@@ -193,7 +203,7 @@ killall Finder
 # Add dock spacers then kill the dock for it to take effect
 # echo "Adding Dock Spacers"
 # for i in {1..8}; do
-# 	defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
+# 	defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="small-spacer-tile";}'
 # done
 
 # Kill the dock to implement the changes
@@ -204,11 +214,11 @@ killall Finder
 # TODO - give the user the option to select their storage option and drive
 # TODO - test if the config file exists before writing to it
 # Create mackup config file, set directory to icloud, then restore
-echo "Creating mackup config file & setting storage to local storage"
-echo -e "[storage]\nengine = file_system\npath = /Users/jonathandunlap/Backups\ndirectory = mackup" >>~/.mackup.cfg
+# echo "Creating mackup config file & setting storage to local storage"
+# echo -e "[storage]\nengine = file_system\npath = /Users/jonathandunlap/Backups\ndirectory = mackup" >>~/.mackup.cfg
 
-echo "Pulling backup from GitHub and saving locally"
-git clone https://github.com/JonDunlap/Backups.git ~/Backups
+# echo "Pulling backup from GitHub and saving locally"
+# git clone https://github.com/JonDunlap/Backups.git ~/Backups
 
 # Restore configs from current backup (if it exists)
 echo "Restoring setup from Mackup..."
@@ -217,8 +227,8 @@ mackup restore
 ### Install Node.js using NVM
 
 # Create NVM folder, then install node
-echo "Creating nvm folder"
-mkdir ~/.nvm
+# echo "Creating nvm folder"
+# mkdir ~/.nvm
 
 echo "Installing the latest version of Node"
 nvm install node
@@ -232,8 +242,8 @@ packages=(
 )
 
 # Install Node global packages
-echo "Installing global node modules"
-npm install -g ${packages[@]}
+# echo "Installing global node modules"
+# npm install -g ${packages[@]}
 
 echo "Done!"
 
