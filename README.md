@@ -1,10 +1,10 @@
 ## TODO
 
-    	- * Move to Ansible for omnipotent installation *
-    - update readme to include installation instructions using the new shell script.
-    - update sections to include description & links for apps/formulas/etc that are being used in the shell script.
-    - provide links to student discounts and apps for students
-    - add Mac settings/preferences to shell script for automation
+- Move to Ansible for idempotent installation
+- Update README to include installation instructions using the new shell script
+- Update sections to include descriptions & links for apps/formulas/etc. that are being used in the shell script
+- Provide links to student discounts and apps for students
+- Add Mac settings/preferences to the shell script for automation
 
 # My Mac Setup
 
@@ -20,12 +20,14 @@
 
 [Applications](#Applications)
 
+[App Store](#App-Store)
+
 [GitHub Student Developer Pack](#github-student-developer-pack)
 
 ## Updates
 
 - On your Mac go to:
-  ** > System Preferences > Software Update** check for and install any updates that are available.
+  ** > System Preferences > Software Update** and check for and install any updates that are available.
 
 ## Security Settings
 
@@ -43,15 +45,15 @@ Check preferences for settings that you want, some of the recommended ones I use
   - **> General:** Uncheck **Ask to keep changes..**
   - **> General:** Check **Allow Handoff..** to enable copy/pasting to and from other Apple devices as well as messaging and calls on your Mac
   - **> Dock:** Change the size and position to what you like
-  - **> Accessibility > Siri:** Enable type to Siri so you can use Siri without talking at your Mac
-  - **> Touch ID:** Setup Touch ID if available on your Mac
-  - **> Users & Groups > Login Options:** Click the lock icon and enter your password to edit. Setup automatic login if you are the only user, click **Show fast user switching menu** to enable your name in the menu bar of your Mac. Looks good and offers a quick way to logoff and change user accounts.
-  - **> Keyboard > Keyboard:** Set **Key Repeat** to fast and **Delay Until Repeat** to short. If you are using an external keyboard make sure **Use F1, F2, etc..** is selected so that you can use your keyboard function keys
+  - **> Accessibility > Siri:** Enable type to Siri so you can use Siri without talking to your Mac
+  - **> Touch ID:** Set up Touch ID if available on your Mac
+  - **> Users & Groups > Login Options:** Click the lock icon and enter your password to edit. Set up automatic login if you are the only user, and click **Show fast user switching menu** to display your name in the menu bar. This looks good and offers a quick way to log off and switch user accounts.
+  - **> Keyboard > Keyboard:** Set **Key Repeat** to fast and **Delay Until Repeat** to short. If you are using an external keyboard, make sure **Use F1, F2, etc..** is selected so that you can use your keyboard function keys
   - **> Trackpad > Point & Click:** Tracking Speed to fast
   - **> Trackpad > More Gestures:** Select all options for easy navigation
   - **> Mouse:** Tracking Speed to fast
 
-## Terminal tools
+## Terminal Tools
 
 Customize the terminal to add some flair.
 
@@ -79,7 +81,7 @@ Alternatively you can install [iTerm](https://www.iterm2.com) as your default te
 
 ## Safari
 
-Safari is my default web browser on the Mac, it has gotten much better and I have not ran into any issues with websites running or opening strangely. A newer feature is the developer tools that are available, but not enabled by default.
+Safari is my default web browser on the Mac. It has gotten much better, and I have not run into any issues with websites running or opening strangely. A newer feature is the developer tools that are available but not enabled by default.
 
 - To enable open Safari, in the menu bar click **Safari > Preferences > Advanced** and select **Show Develop menu in menu bar**. This will enable a new menu bar item that gives you many tools to troubleshoot and inspect webpages.
 
@@ -87,11 +89,11 @@ Safari is my default web browser on the Mac, it has gotten much better and I hav
 
 List of applications that I download for my Mac
 
-**xCode**
+**Xcode**
 
-- This is needed for any coding done on the Mac, it installs the necessary components that are needed to begin coding on your Mac.
-  - Install from [AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or/
-  - Using the terminal type `xcode-select --install`
+- This is needed for any coding done on the Mac. It installs the necessary components needed to begin coding on your Mac.
+  - Install from the [App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12), or
+  - Using the terminal, type `xcode-select --install`
 
 **Git**
 
@@ -101,47 +103,47 @@ List of applications that I download for my Mac
 **GitHub Desktop**
 
 - Works the same as Git, but gives you a UI so you can see what you are doing.
-  - Install from [Github](https://desktop.github.com)
+  - Install from [GitHub](https://desktop.github.com)
 
-**Visual studio Community for Mac**
+**Visual Studio Community for Mac**
 
 - Replaces Xamarin on Mac, allows you to create .NET applications that can run on iOS, Android, and the web.
   - Download and install from [Microsoft's Website](https://visualstudio.microsoft.com/vs/mac/)
 
-**Visual studio code**
+**Visual Studio Code**
 
-- VS Code is a multi-purpose editor allowing you to work with various code languages. It is fully customizable and can be enhance with many different packages extending its usability.
+- VS Code is a multi-purpose editor allowing you to work with various code languages. It is fully customizable and can be enhanced with many different packages extending its usability.
   - Download and install from [Microsoft's Website](https://code.visualstudio.com)
   - Gist with user settings located [here](https://gist.github.com/JonDunlap/4bbbd69462aed57daeda4ecc157173f9)
   - Follow instructions [here](https://code.visualstudio.com/docs/setup/mac) to make VS Code accessible from the terminal
 
 **MacUpdater**
 
-- Handy tool to keep almost all of your non Appstore programs up to date on your Mac
+- Handy tool to keep almost all of your non-App Store programs up to date on your Mac
   - Download from [here](https://www.corecode.io/macupdater/)
-  - You can scan without having to pay for the product and up to 10 automatic updates are included for free. If you use the program to just scan for updates and then just install them yourself you do not need to pay for the license. That being said, this is a great product and is worth the low \$10 price to have all the features and to support the creators.
+  - You can scan without having to pay for the product, and up to 10 automatic updates are included for free. If you use the program to just scan for updates and then install them yourself, you do not need to pay for the license. That being said, this is a great product and is worth the low \$10 price to have all the features and to support the creators.
 
 **Alfred**
 
 - A more powerful spotlight tool. Alfred is a very powerful tool for searching your Mac, opening programs and much more.
   - Install from [here](https://www.alfredapp.com)
-  - There is a paid powerpack that extends the functionality of Alfred, I personally have not seen the need to upgrade to it, but depending on if you can put the additional tools to use it may be worth looking at.
+  - There is a paid Powerpack that extends the functionality of Alfred. I personally have not seen the need to upgrade to it, but depending on whether you can put the additional tools to use, it may be worth looking at.
 
-**AppCLeaner**
+**AppCleaner**
 
-- Cleans some of the leftover files from your Mac after uninstalling an application. Macs are infamous for the amount of junk that is left behind after uninstalling an application and with no easy way to find what is left after an uninstall it can be hard to keep your Mac free of clutter. This application automates that process and gives you an option to remove the additional files from your Mac when you delete an application.
+- Cleans some of the leftover files from your Mac after uninstalling an application. Macs are infamous for the amount of junk left behind after uninstalling an application, and with no easy way to find what is left after an uninstall, it can be hard to keep your Mac free of clutter. This application automates that process and gives you an option to remove the additional files from your Mac when you delete an application.
   - Install from [freemacsoft](https://freemacsoft.net/appcleaner/)
 
 **Tiles/Magnet**
 
-- Window management is notoriously horrible in Mac, you can create multiple desktop environments which is great, but you're forced to manually resize and arrange your windows unless you want everything in full screen mode. There are 2 windows management applications that I have tried and they are both good with their own advantages and disadvantages.
+- Window management is notoriously poor on the Mac. You can create multiple desktop environments, which is great, but you're forced to manually resize and arrange your windows unless you want everything in full-screen mode. There are 2 window management applications that I have tried, and they are both good, with their own advantages and disadvantages.
 
-* Tiles
+- Tiles
   - Another free program from [freemacsoft](https://freemacsoft.net/tiles/)
   - The only disadvantage I had with this application is that there is no 2/3 window size option
-* Magnet
+- Magnet
   - A paid application on the [App Store](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
-  - All of the same benefits as Tiles, but has the support for 2/3 window sizes.
+  - All of the same benefits as Tiles, but with support for 2/3 window sizes.
 
 **CheatSheet**
 
@@ -165,7 +167,7 @@ List of applications that I download for my Mac
 
 **Razer Synapse 2**
 
-- Drivers and settings for my Razer Moba mouse. There is a synapse 3 available however it is not currently available on the Mac.
+- Drivers and settings for my Razer Moba mouse. Synapse 3 exists, but it is not currently available on the Mac.
   - [Razer](https://www.razer.com/synapse-2)
 
 **Transmission**
@@ -180,7 +182,7 @@ List of applications that I download for my Mac
 
 **AVG AntiVirus**
 
-- No computer is immune to viruses, AVG is available for free with purchased plans.
+- No computer is immune to viruses. AVG is available for free, with paid plans also offered.
   - [AVG](https://www.avg.com/en-ww/homepage#mac)
 
 ## App Store
@@ -193,11 +195,11 @@ Selection of applications available through the App Store that I use. Makes upda
 
   - [App store download](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12) / [1Password Website](https://1password.com) download from website
 
-  - 6 month free trial available with student email through [Student App Centre](https://www.studentappcentre.com/discounts/1password)
+  - 6-month free trial available with a student email through [Student App Centre](https://www.studentappcentre.com/discounts/1password)
 
 **NordVPN**
 
-- Fast VPN service with worldwide servers. Free 30 day trial available to check if it is right for you. Works on your multiple platforms including your computer, phone, tablets, and can be added straight into your router or other network devices.
+- Fast VPN service with worldwide servers. Free 30-day trial available to check if it is right for you. Works on multiple platforms including your computer, phone, and tablet, and can be added straight into your router or other network devices.
 
   - [NordVPN](https://apps.apple.com/us/app/nordvpn-ike-unlimited-vpn/id1116599239?mt=12) App store download / [NordVPN Website](https://nordvpn.com) download from website
 
@@ -205,11 +207,11 @@ Selection of applications available through the App Store that I use. Makes upda
 
 **Microsoft Office**
 
-- Free student accounts with student email, personally I have prefered Apple's suite of programs to Microsoft's but they both do essentially the same thing.
+- Free student accounts with a student email. I personally have preferred Apple's suite of programs to Microsoft's, but they both do essentially the same thing.
 
   - [Microsoft Office 365](https://apps.apple.com/us/app-bundle/microsoft-office-365/id1450038993?mt=12) App store download / [Full Sail install instructions](https://one.fullsail.edu/support/knowledge_base_articles/technical/505)
 
-**Snippets Lab**
+**SnippetsLab**
 
 - Snippet manager built for the Mac, featuring search integration, iCloud backup, and the ability to label and color categories.
 
@@ -223,13 +225,13 @@ Selection of applications available through the App Store that I use. Makes upda
 
 **Slack**
 
-- Team messaging application, built for larger organizations allowing teams to stay in touch and provide updates. Used for programming courses.
+- Team messaging application built for larger organizations, allowing teams to stay in touch and provide updates. Used here for programming courses.
 
   - [Slack](https://apps.apple.com/us/app/slack/id803453959?mt=12) App Store download
 
-## Github Student Developer Pack
+## GitHub Student Developer Pack
 
-An amazing pack of software, tools, websites, learning material and more that is constantly updated to provide amazing value to students. Items are either offered free or at severely discounted prices to students.
+An amazing pack of software, tools, websites, learning material, and more that is constantly updated to provide great value to students. Items are either offered free or at severely discounted prices to students.
 
-- Go to [GitHub Education](https://education.github.com/pack) to register with your student email. You can use an already created GitHub account you just have to link it with your University.
-- Once registered you have access to a wealth of resources to help you develop as a developer.
+- Go to [GitHub Education](https://education.github.com/pack) to register with your student email. You can use an already created GitHub account; you just have to link it with your university.
+- Once registered, you have access to a wealth of resources to help you grow as a developer.
